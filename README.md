@@ -29,3 +29,16 @@ Security considerations play a major role in this architecture. All API communic
 This multi-cloud implementation demonstrates how distributed cloud services can operate cohesively while residing on separate infrastructures. The design ensures scalability by allowing independent scaling of frontend and backend components within their respective cloud environments. It improves fault tolerance by reducing dependency on a single provider. Furthermore, it prepares organizations for hybrid expansion and advanced disaster recovery planning. Overall, the architecture successfully validates interoperability between AWS and Azure while maintaining secure, scalable, and resilient cloud operations.
 
 In conclusion, this project successfully simulates a multi-cloud architecture using two independent VPC environments within AWS. By distributing services across separate networking domains and enabling controlled interoperability through HTTP-based communication, the implementation satisfies the requirement of designing a multi-cloud architecture and demonstrating platform interoperability. The architecture effectively models how services would communicate across different cloud providers in a production environment while maintaining simplicity and clarity for demonstration purposes.
+
+
+<img width="717" height="238" alt="Image" src="https://github.com/user-attachments/assets/04d13113-83bb-48af-9b3a-92820edb5907" />
+
+<img width="1218" height="721" alt="Image" src="https://github.com/user-attachments/assets/855ef0a3-117b-4693-9551-427ffb85e1d3" />
+
+<img width="1886" height="275" alt="Image" src="https://github.com/user-attachments/assets/0bfefa95-d844-46cf-b50a-68e8f4b537c7" />
+
+<img width="818" height="243" alt="Image" src="https://github.com/user-attachments/assets/a46e747a-8e0b-40bf-845e-36b69b4ee864" />
+
+<img width="1886" height="449" alt="Image" src="https://github.com/user-attachments/assets/5a90b4c5-c208-4104-8751-0090cf9dbbe7" />
+
+<img width="1886" height="275" alt="Image" src="https://github.com/user-attachments/assets/e4badbfa-9202-4cd8-9d62-9745d49f6fb5" />
