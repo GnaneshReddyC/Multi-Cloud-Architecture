@@ -33,7 +33,6 @@ In conclusion, this project successfully simulates a multi-cloud architecture us
 
 <img width="717" height="238" alt="Image" src="https://github.com/user-attachments/assets/04d13113-83bb-48af-9b3a-92820edb5907" />
 
-<img width="1218" height="721" alt="Image" src="https://github.com/user-attachments/assets/855ef0a3-117b-4693-9551-427ffb85e1d3" />
 
 <img width="1886" height="275" alt="Image" src="https://github.com/user-attachments/assets/0bfefa95-d844-46cf-b50a-68e8f4b537c7" />
 
